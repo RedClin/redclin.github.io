@@ -1,0 +1,19 @@
+p {
+  color: blue;
+  font-family: Comic Sans MS;
+}
+
+body {
+  background-color: black
+}
+
+h1 {
+  color: purple;
+  font-family: Verdana
+}
+
+h2, h3, h9 {
+  color: green;
+  font-family: Verdana
+}
+
