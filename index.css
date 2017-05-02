@@ -16,4 +16,6 @@ h2, h3, h9 {
   color: green;
   font-family: Verdana
 }
-
+img {
+  width: 200px; height: 200px;
+}
