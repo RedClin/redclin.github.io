@@ -4,3 +4,15 @@ h1 {
 ol {
   color: #08ff00;
 }
+
+.favorites {
+    text-align: center;
+    background-color: #E1941D;
+    color: purple;
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
