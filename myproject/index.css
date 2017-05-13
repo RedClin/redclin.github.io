@@ -14,7 +14,8 @@ a{
 
 p{
   background-color: #000000;
-  border-radius: 15px;
+  border-radius: 20px;
+  width: 20%
 }
 img{
   width: 600px; height: 300px;
