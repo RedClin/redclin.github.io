@@ -5,6 +5,11 @@ ol {
   color: #c0ff54;
 }
 
+ol1 {
+  color: #c0ff54;
+  font-weight: bold;
+}
+
 .favorites {
     text-align: center;
     background-color: #E1941D;
